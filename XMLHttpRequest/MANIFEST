@@ -3,11 +3,13 @@ support xmlhttprequest-timeout.js
 xmlhttprequest-timeout-aborted.html
 xmlhttprequest-timeout-abortedonmain.html
 xmlhttprequest-timeout-overridesexpires.html
+xmlhttprequest-timeout-overrides.html
 xmlhttprequest-timeout-simple.html
 xmlhttprequest-timeout-synconmain.html
 xmlhttprequest-timeout-twice.html
 xmlhttprequest-timeout-worker-aborted.html
 xmlhttprequest-timeout-worker-overridesexpires.html
+xmlhttprequest-timeout-worker-overrides.html
 xmlhttprequest-timeout-worker-simple.html
 xmlhttprequest-timeout-worker-synconworker.html
 xmlhttprequest-timeout-worker-twice.html
